@@ -2,8 +2,8 @@
 
 md5 hash collision  
 0e~~~~~~~~ == 0
-> true
-![source](http://sori.ml/writeup/wargame/md5_compare/source.png)  
+true  
+
 
 https://news.ycombinator.com/item?id=9484757  
 
