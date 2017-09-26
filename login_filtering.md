@@ -1,9 +1,9 @@
 #login_filtering  
-![first](http://sori.ml/writeup/wargame/login_filtering/first.PNG)  
+![first](http://sori.gq/writeup/wargame/login_filtering/first.PNG)  
 제공되는 소스를 봅시다!  
-![phps](http://sori.ml/writeup/wargame/login_filtering/phpsource.PNG)  
+![phps](http://sori.gq/writeup/wargame/login_filtering/phpsource.PNG)  
 쿼리를 날려 나오는 값이 blueh4g이거나 guest이면 플래그를 출력해줍니다  
-![html](http://sori.ml/writeup/wargame/login_filtering/htmlsource.PNG)  
+![html](http://sori.gq/writeup/wargame/login_filtering/htmlsource.PNG)  
 html소스를 보면 아이디와 패스워드가 적혀있습니다.  
 
 blueh4g라는 계정으로 로그인 하려면 id : blueh4g pw : blueh4g1234ps이어야 합니다.  
