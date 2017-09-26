@@ -15,5 +15,5 @@ php상에서 Exception이 발생하게 된다.
 따라서 admin의 db를 불러오면 될 것 같아서 경로와 이름을 맞추어 주면 db가 다운이 된다.  
 
 http://wargame.kr:8080/db_is_really_good/db/wkrm_admin.db  
-![down](http://sori.ml/writeup/wargame/db_is_really_good/down.PNG)  
+![down](http://sori.gq/writeup/wargame/db_is_really_good/down.PNG)  
 db를 sqlite Browser로 열어보면 플래그가 나온다  
