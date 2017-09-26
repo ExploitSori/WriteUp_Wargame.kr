@@ -1,13 +1,13 @@
 #db_is_really_good  
-![fisrt](http://sori.ml/writeup/wargame/db_is_really_good/first.PNG)  
+![fisrt](http://sori.gq/writeup/wargame/db_is_really_good/first.PNG)  
 닉네임을 입력하라는 것 같다.  
 
 
-![chat](http://sori.ml/writeup/wargame/db_is_really_good/chat.PNG)  
+![chat](http://sori.gq/writeup/wargame/db_is_really_good/chat.PNG)  
 닉네임을 입력하니 실시간 채팅 창이 나온다.  
 XSS과 injection을 해보니 아무것도 안된다.  
 
-![dbexcept](http://sori.ml/writeup/wargame/db_is_really_good/dbexcept.PNG)  
+![dbexcept](http://sori.gq/writeup/wargame/db_is_really_good/dbexcept.PNG)  
 로그인 창에서 각종 문자들을 입력하다가 '/'를 입력하면  
 php상에서 Exception이 발생하게 된다.  
 에러를 읽어보면 DB를 불러와서 채팅창이 운영되는 것 같다.  
